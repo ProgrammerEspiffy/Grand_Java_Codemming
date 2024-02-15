@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e50f5f71-7df7-413e-85c7-8ed6ec8d80ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_programacao_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicional_Ternaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Do_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entrada_De_Dados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Escopo_E_Inicialização.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estrutura_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estrutura_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcoes_Matematicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maior_Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores_De_Atribuicao_Cumulativa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Processamento_De_Dados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saida_De_Dados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch_Case.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bSPduxkZhHiyMjCC3X5azyND01" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bit.executor": "Run",
+    "Application.Condicionais.executor": "Debug",
+    "Application.Condicional_Ternaria.executor": "Run",
+    "Application.Do_While.executor": "Run",
+    "Application.Entrada_De_Dados.executor": "Run",
+    "Application.Escopo_E_Inicialização.executor": "Debug",
+    "Application.Estrutura_For.executor": "Run",
+    "Application.Estrutura_While.executor": "Debug",
+    "Application.Funcoes.executor": "Run",
+    "Application.Funcoes_Matematicas.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maior_Numero.executor": "Run",
+    "Application.Processamento_De_Dados.executor": "Run",
+    "Application.Sintaxe_Opcional.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.Switch_Case.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Natacus/IdeaProjects/curso_programacao_java/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Maior_Numero">
+    <configuration name="Bit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bit" />
+      <module name="curso_programacao_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Do_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Do_While" />
+      <module name="curso_programacao_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcoes" />
+      <module name="curso_programacao_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maior_Numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maior_Numero" />
+      <module name="curso_programacao_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
+      <module name="curso_programacao_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Maior_Numero" />
+        <item itemvalue="Application.Funcoes" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.Bit" />
+        <item itemvalue="Application.Do_While" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-azul-11.0.22-3183f394aec4-a26208f5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e50f5f71-7df7-413e-85c7-8ed6ec8d80ac" name="Changes" comment="" />
+      <created>1706205600098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706205600098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Estrutura_While.java</url>
+          <line>3</line>
+          <properties class="Estrutura_While" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Estrutura_For.java</url>
+          <line>3</line>
+          <properties class="Estrutura_For" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Maior_Numero.java</url>
+          <line>3</line>
+          <properties class="Maior_Numero" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
