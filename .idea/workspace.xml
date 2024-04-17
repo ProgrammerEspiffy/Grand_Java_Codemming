@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e50f5f71-7df7-413e-85c7-8ed6ec8d80ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_programacao_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional_Ternaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Do_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entrada_De_Dados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escopo_E_Inicialização.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estrutura_For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estrutura_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcoes_Matematicas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maior_Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores_De_Atribuicao_Cumulativa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Processamento_De_Dados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saida_De_Dados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_Case.java" afterDir="false" />
+    <list default="true" id="e50f5f71-7df7-413e-85c7-8ed6ec8d80ac" name="Changes" comment="Starter Version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +56,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Natacus/IdeaProjects/curso_programacao_java/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Natacus/IdeaProjects/curso_programacao_java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Maior_Numero">
@@ -130,6 +112,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-11.0.22-azul-11.0.22-3183f394aec4-a26208f5" />
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
       </set>
     </attachedChunks>
   </component>
@@ -142,6 +125,23 @@
       <option name="presentableId" value="Default" />
       <updated>1706205600098</updated>
     </task>
+    <task id="LOCAL-00001" summary="Starter Version">
+      <option name="closed" value="true" />
+      <created>1708026414354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708026414354</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Starter Version">
+      <option name="closed" value="true" />
+      <created>1708026422385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708026422385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +154,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starter Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starter Version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -189,6 +193,11 @@
           <url>file://$PROJECT_DIR$/src/Strings.java</url>
           <line>2</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maior_Numero.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
